@@ -1,2 +1,6 @@
 # hello-world
-Just first test hello-word repository
+
+Hi Guys,
+
+It's test.
+
